@@ -6,7 +6,7 @@
 
 2. Add your name in the file. The following format is recommended.
 ```
-[Your name](link-to-your-github-profile)
+[Your name](link-to-your-github-profile) - [HTML Assignment](link-to-hosted-site)
 ```
 
 3. Submit a pull request!
