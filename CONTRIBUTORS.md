@@ -8,5 +8,5 @@ Gagan Sharma <https://github.com/gagansh7171> - [HTML Assignment - IMG Recriuitm
 
 Shashank Aital <https://github.com/aitalshashank2> - [HTML Assignment - IMG Recruitment website] - <https://aitalshashank2.github.io/IMG_HTML_CSS_Assignment/>
 
-Rahul Kumar <https://github.com/geekvert> - [HTML Assignment - IMG Recriuitment website] - <
-https://geekvert.github.io/main.html
+Rahul Kumar <https://github.com/geekvert> - [HTML Assignment - IMG Recriuitment website] - 
+<https://geekvert.github.io/main.html/>
