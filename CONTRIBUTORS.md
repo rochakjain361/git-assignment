@@ -12,3 +12,5 @@ Rahul Kumar <https://github.com/geekvert> - [HTML Assignment - IMG Recriuitment 
 <https://geekvert.github.io/main.html>
 
 Sparsh Agrawal <https://github.com/Sparsh1212> - [HTML Assignment - IMG Recriuitment website] - <https://sparsh1212.github.io/Assignment/>
+
+Mihir Sachdeva <https://github.com/mihirsachdeva> - [HTML Assignment - IMG Recruitment website] - <https://mihirsachdeva.github.io/IMG-Assignment-1/main/>
