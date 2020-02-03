@@ -7,3 +7,6 @@ Ayush Bansal <https://github.com/ayu023ban> - [HTML Assignment - IMG Recriuitmen
 Gagan Sharma <https://github.com/gagansh7171> - [HTML Assignment - IMG Recriuitment website] - <https://gagansh7171.github.io/img-assign/>
 
 Shashank Aital <https://github.com/aitalshashank2> - [HTML Assignment - IMG Recruitment website] - <https://aitalshashank2.github.io/IMG_HTML_CSS_Assignment/>
+
+Rahul Kumar <https://github.com/geekvert> - [HTML Assignment - IMG Recriuitment website] - <
+https://geekvert.github.io/main.html>
